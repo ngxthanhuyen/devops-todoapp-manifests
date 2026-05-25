@@ -8,8 +8,8 @@ commonLabels:
   app: todoapp
 images:
 - name: todoapp-backend
-  newName: asia-northeast1-docker.pkg.dev/phu-le-it/todoapp-repository/todoapp-backend
-  newTag: v1.0.9
+  newName: europe-west9-docker.pkg.dev/projet-1-496616/todoapp-repository/todoapp-backend
+  newTag: v1.0.10
 - name: todoapp-frontend
   newName: asia-northeast1-docker.pkg.dev/phu-le-it/todoapp-repository/todoapp-frontend
   newTag: v1.0.5
